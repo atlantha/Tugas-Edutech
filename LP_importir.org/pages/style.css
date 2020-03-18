@@ -1,17 +1,26 @@
 .atas{
     background-color: yellow;
+    padding:0px;
 
 }
 .container h2{
    font-family: Raleway;
    font: 200px;
    text-align: center;
+   font-size:50px;
    
 }
 .container h5{
     text-align: center;
+    color: blue;
 }
 
 .container p{
     text-align: center;
+}
+
+.mx-auto{
+    display: flex;
+    padding: 25px 50px;
+    margin-top:1%;
 }
