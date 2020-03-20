@@ -1,26 +1,47 @@
 .atas{
-    background-color: yellow;
-    padding:0px;
+    background-color: #FFD600;
+    padding:20px;
+    
 
 }
-.container h2{
+.container1 h2{
    font-family: Raleway;
    font: 200px;
    text-align: center;
    font-size:50px;
    
 }
-.container h5{
+.container1 h5{
     text-align: center;
     color: blue;
 }
 
-.container p{
+.container1 p{
     text-align: center;
 }
 
 .mx-auto{
+    
     display: flex;
-    padding: 25px 50px;
-    margin-top:1%;
+    font-weight: 600;
+    margin-top:2%;
+  
+}
+.tengah{
+    text-align: center;
+    font-size: 30px;
+}
+
+.kotak{
+    background-color: #FFD600;
+    padding-top: 50px;
+}
+.container h1{
+    text-align: center;
+}
+.container p{
+    text-align: justify;
+    font-size: 20px;
+    font-family: Raleway;
+    color: rgb(45, 45, 45);
 }
